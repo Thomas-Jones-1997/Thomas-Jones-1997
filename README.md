@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas J Jones</h1>
-<h3 align="center">A passionate games development student looking to gain key knowledge and skills to drive myself.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-jones-1997&label=Profile%20views&color=0e75b6&style=flat" alt="thomas-jones-1997" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomas-jones-1997" alt="thomas-jones-1997" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@t_j_jones_1997" target="blank"><img src="https://img.shields.io/twitter/follow/@t_j_jones_1997?logo=twitter&style=for-the-badge" alt="@t_j_jones_1997" /></a> </p>
+<h3 align="center">A passionate games development student looking to gain key knowledge and skills to drive myself. Highly passionate about The Sims video game developed by Maxis studios - EA</h3>
 
 - 🔭 I’m currently working on **OpenGL Game**
 
@@ -19,7 +13,7 @@
 
 - 📄 Know about my experiences [https://thomas-jones-1997.github.io/](https://thomas-jones-1997.github.io/)
 
-- ⚡ Fun fact **I'm short and filled with energy ⚡**
+- ⚡ Fun fact **I'm the founder and developer of Cookie Sims, the idea is to showcase my own Sims builds online while enabling other fellow players to enjoy and download them. ⚡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas-jones-1997&show_icons=true&locale=en&layout=compact" alt="thomas-jones-1997" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-jones-1997&show_icons=true&locale=en" alt="thomas-jones-1997" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-jones-1997&" alt="thomas-jones-1997" /></p>
