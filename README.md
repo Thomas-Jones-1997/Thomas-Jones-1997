@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **OpenGL Game**
 
-- 🌱 I’m currently learning **Computer Games Development**
+- 🌱 I’m currently learning **Computer Games Development at Staffordshire University**
 
 - 👨‍💻 All of my projects are available at [Thomas-Jones-1997.github.io](Thomas-Jones-1997.github.io)
 
